@@ -1,2 +1,2 @@
 # HRPL
-Hybrid routing discovery mechanism for node-to-node RPL-based communications in IoT
+An Efficient RPL-based Routing Discovery Mechanism for Node-to-Node Communications in IoT
