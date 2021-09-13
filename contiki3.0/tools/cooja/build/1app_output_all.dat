@@ -1,0 +1,235 @@
+#node_id at time(ms) : message 
+6 at 16489 : app_send: seq: 1 to: 1 
+1 at 16505 : app_recv: src: 6 
+9 at 16561 : app_send: seq: 1 to: 1 
+1 at 16589 : app_recv: src: 9 
+5 at 16985 : app_send: seq: 1 to: 1 
+1 at 17025 : app_recv: src: 5 
+31 at 17318 : app_send: seq: 1 to: 1 
+1 at 17396 : app_recv: src: 31 
+10 at 17544 : app_send: seq: 1 to: 1 
+12 at 17580 : app_send: seq: 1 to: 1 
+1 at 17586 : app_recv: src: 10 
+1 at 17609 : app_recv: src: 12 
+19 at 18139 : app_send: seq: 1 to: 1 
+1 at 18208 : app_recv: src: 19 
+38 at 18224 : app_send: seq: 1 to: 1 
+46 at 18661 : app_send: seq: 1 to: 1 
+16 at 18842 : app_send: seq: 1 to: 1 
+25 at 18876 : app_send: seq: 1 to: 1 
+1 at 18883 : app_recv: src: 16 
+1 at 18931 : app_recv: src: 25 
+37 at 19101 : app_send: seq: 1 to: 1 
+13 at 19394 : app_send: seq: 1 to: 1 
+24 at 19417 : app_send: seq: 1 to: 1 
+1 at 19439 : app_recv: src: 13 
+45 at 19508 : app_send: seq: 1 to: 1 
+1 at 19516 : app_recv: src: 24 
+11 at 20929 : app_send: seq: 1 to: 1 
+1 at 20958 : app_recv: src: 11 
+8 at 21110 : app_send: seq: 1 to: 1 
+36 at 21663 : app_send: seq: 1 to: 1 
+1 at 21774 : app_recv: src: 36 
+44 at 21817 : app_send: seq: 1 to: 1 
+15 at 22528 : app_send: seq: 1 to: 1 
+1 at 22577 : app_recv: src: 15 
+3 at 22651 : app_send: seq: 1 to: 1 
+1 at 22668 : app_recv: src: 3 
+35 at 22912 : app_send: seq: 1 to: 1 
+43 at 22981 : app_send: seq: 1 to: 1 
+1 at 22994 : app_recv: src: 35 
+1 at 23215 : app_recv: src: 43 
+26 at 23432 : app_send: seq: 1 to: 1 
+21 at 23482 : app_send: seq: 1 to: 1 
+1 at 23511 : app_recv: src: 26 
+1 at 23553 : app_recv: src: 21 
+28 at 23719 : app_send: seq: 1 to: 1 
+1 at 23822 : app_recv: src: 28 
+50 at 25465 : app_send: seq: 1 to: 1 
+1 at 25614 : app_recv: src: 50 
+30 at 25859 : app_send: seq: 1 to: 1 
+34 at 26055 : app_send: seq: 1 to: 1 
+1 at 26144 : app_recv: src: 34 
+42 at 26266 : app_send: seq: 1 to: 1 
+48 at 26566 : app_send: seq: 1 to: 1 
+33 at 26584 : app_send: seq: 1 to: 1 
+1 at 26762 : app_recv: src: 33 
+1 at 26768 : app_recv: src: 48 
+41 at 26794 : app_send: seq: 1 to: 1 
+2 at 26854 : app_send: seq: 1 to: 1 
+1 at 26870 : app_recv: src: 2 
+49 at 26894 : app_send: seq: 1 to: 1 
+1 at 27085 : app_recv: src: 41 
+1 at 27092 : app_recv: src: 49 
+17 at 27711 : app_send: seq: 1 to: 1 
+1 at 27755 : app_recv: src: 17 
+18 at 28580 : app_send: seq: 1 to: 1 
+1 at 28625 : app_recv: src: 18 
+4 at 28700 : app_send: seq: 1 to: 1 
+1 at 28729 : app_recv: src: 4 
+23 at 28958 : app_send: seq: 1 to: 1 
+7 at 28999 : app_send: seq: 1 to: 1 
+32 at 29002 : app_send: seq: 1 to: 1 
+1 at 29025 : app_recv: src: 7 
+1 at 29032 : app_recv: src: 23 
+1 at 29370 : app_recv: src: 32 
+27 at 29393 : app_send: seq: 1 to: 1 
+1 at 29467 : app_recv: src: 27 
+40 at 29505 : app_send: seq: 1 to: 1 
+20 at 29604 : app_send: seq: 1 to: 1 
+1 at 29635 : app_recv: src: 40 
+1 at 29653 : app_recv: src: 20 
+39 at 29912 : app_send: seq: 1 to: 1 
+1 at 30041 : app_recv: src: 39 
+47 at 30538 : app_send: seq: 1 to: 1 
+1 at 30673 : app_recv: src: 47 
+22 at 30696 : app_send: seq: 1 to: 1 
+26 at 30698 : app_send: seq: 2 to: 1 
+1 at 30819 : app_recv: src: 22 
+1 at 30851 : app_recv: src: 26 
+29 at 30882 : app_send: seq: 1 to: 1 
+14 at 31055 : app_send: seq: 1 to: 1 
+1 at 31101 : app_recv: src: 14 
+1 at 31118 : app_recv: src: 29 
+25 at 31267 : app_send: seq: 2 to: 1 
+1 at 31326 : app_recv: src: 25 
+21 at 32006 : app_send: seq: 2 to: 1 
+1 at 32061 : app_recv: src: 21 
+29 at 32570 : app_send: seq: 2 to: 1 
+1 at 32642 : app_recv: src: 29 
+4 at 32833 : app_send: seq: 2 to: 1 
+46 at 32841 : app_send: seq: 2 to: 1 
+13 at 32845 : app_send: seq: 2 to: 1 
+1 at 32984 : app_recv: src: 46 
+38 at 33226 : app_send: seq: 2 to: 1 
+14 at 33258 : app_send: seq: 2 to: 1 
+11 at 33288 : app_send: seq: 2 to: 1 
+1 at 33290 : app_recv: src: 14 
+1 at 33321 : app_recv: src: 11 
+1 at 33330 : app_recv: src: 38 
+39 at 33521 : app_send: seq: 2 to: 1 
+1 at 33620 : app_recv: src: 39 
+45 at 33938 : app_send: seq: 2 to: 1 
+1 at 34047 : app_recv: src: 45 
+30 at 34852 : app_send: seq: 2 to: 1 
+1 at 34924 : app_recv: src: 30 
+5 at 35063 : app_send: seq: 2 to: 1 
+6 at 35083 : app_send: seq: 2 to: 1 
+1 at 35105 : app_recv: src: 6 
+1 at 35119 : app_recv: src: 5 
+20 at 35329 : app_send: seq: 2 to: 1 
+1 at 35374 : app_recv: src: 20 
+40 at 35395 : app_send: seq: 2 to: 1 
+1 at 35493 : app_recv: src: 40 
+32 at 35862 : app_send: seq: 2 to: 1 
+43 at 35930 : app_send: seq: 2 to: 1 
+1 at 36118 : app_recv: src: 32 
+7 at 36538 : app_send: seq: 2 to: 1 
+1 at 36556 : app_recv: src: 7 
+35 at 36928 : app_send: seq: 2 to: 1 
+1 at 37013 : app_recv: src: 35 
+31 at 37186 : app_send: seq: 2 to: 1 
+1 at 37272 : app_recv: src: 31 
+47 at 37812 : app_send: seq: 2 to: 1 
+1 at 37945 : app_recv: src: 47 
+19 at 37982 : app_send: seq: 2 to: 1 
+1 at 38027 : app_recv: src: 19 
+44 at 38450 : app_send: seq: 2 to: 1 
+12 at 38470 : app_send: seq: 2 to: 1 
+1 at 38500 : app_recv: src: 12 
+1 at 38574 : app_recv: src: 44 
+24 at 38620 : app_send: seq: 2 to: 1 
+1 at 38678 : app_recv: src: 24 
+2 at 39041 : app_send: seq: 2 to: 1 
+1 at 39058 : app_recv: src: 2 
+41 at 39106 : app_send: seq: 2 to: 1 
+1 at 39223 : app_recv: src: 41 
+37 at 39296 : app_send: seq: 2 to: 1 
+22 at 39335 : app_send: seq: 2 to: 1 
+1 at 39450 : app_recv: src: 22 
+1 at 39457 : app_recv: src: 37 
+27 at 39635 : app_send: seq: 2 to: 1 
+1 at 39720 : app_recv: src: 27 
+33 at 39787 : app_send: seq: 2 to: 1 
+1 at 39891 : app_recv: src: 33 
+18 at 40088 : app_send: seq: 2 to: 1 
+1 at 40133 : app_recv: src: 18 
+34 at 40191 : app_send: seq: 2 to: 1 
+42 at 40194 : app_send: seq: 2 to: 1 
+1 at 40277 : app_recv: src: 34 
+1 at 40307 : app_recv: src: 42 
+16 at 40334 : app_send: seq: 2 to: 1 
+1 at 40376 : app_recv: src: 16 
+8 at 40540 : app_send: seq: 2 to: 1 
+1 at 40557 : app_recv: src: 8 
+17 at 40883 : app_send: seq: 2 to: 1 
+1 at 40928 : app_recv: src: 17 
+28 at 41074 : app_send: seq: 2 to: 1 
+50 at 41199 : app_send: seq: 2 to: 1 
+1 at 41215 : app_recv: src: 28 
+1 at 41369 : app_recv: src: 50 
+36 at 41725 : app_send: seq: 2 to: 1 
+10 at 41872 : app_send: seq: 2 to: 1 
+1 at 41907 : app_recv: src: 36 
+1 at 41935 : app_recv: src: 10 
+23 at 43349 : app_send: seq: 2 to: 1 
+1 at 43484 : app_recv: src: 23 
+3 at 43620 : app_send: seq: 2 to: 1 
+48 at 43628 : app_send: seq: 2 to: 1 
+1 at 43637 : app_recv: src: 3 
+1 at 43755 : app_recv: src: 48 
+9 at 44803 : app_send: seq: 2 to: 1 
+1 at 44833 : app_recv: src: 9 
+15 at 45411 : app_send: seq: 2 to: 1 
+1 at 45456 : app_recv: src: 15 
+49 at 45480 : app_send: seq: 2 to: 1 
+1 at 45607 : app_recv: src: 49 
+8 at 45751 : app_send: seq: 3 to: 1 
+1 at 45768 : app_recv: src: 8 
+29 at 46234 : app_send: seq: 3 to: 1 
+32 at 46307 : app_send: seq: 3 to: 1 
+1 at 46344 : app_recv: src: 29 
+1 at 46395 : app_recv: src: 32 
+46 at 46747 : app_send: seq: 3 to: 1 
+1 at 46875 : app_recv: src: 46 
+23 at 46899 : app_send: seq: 3 to: 1 
+34 at 46899 : app_send: seq: 3 to: 1 
+1 at 46959 : app_recv: src: 23 
+1 at 46994 : app_recv: src: 34 
+37 at 47078 : app_send: seq: 3 to: 1 
+30 at 47126 : app_send: seq: 3 to: 1 
+1 at 47218 : app_recv: src: 37 
+1 at 47231 : app_recv: src: 30 
+12 at 47431 : app_send: seq: 3 to: 1 
+1 at 47461 : app_recv: src: 12 
+50 at 47707 : app_send: seq: 3 to: 1 
+1 at 47837 : app_recv: src: 50 
+26 at 48276 : app_send: seq: 3 to: 1 
+1 at 48348 : app_recv: src: 26 
+35 at 48733 : app_send: seq: 3 to: 1 
+1 at 48819 : app_recv: src: 35 
+15 at 49083 : app_send: seq: 3 to: 1 
+1 at 49127 : app_recv: src: 15 
+42 at 49663 : app_send: seq: 3 to: 1 
+19 at 49670 : app_send: seq: 3 to: 1 
+1 at 49715 : app_recv: src: 19 
+24 at 49776 : app_send: seq: 3 to: 1 
+1 at 49777 : app_recv: src: 42 
+1 at 49834 : app_recv: src: 24 
+39 at 49982 : app_send: seq: 3 to: 1 
+44 at 50028 : app_send: seq: 3 to: 1 
+1 at 50093 : app_recv: src: 39 
+1 at 50142 : app_recv: src: 44 
+21 at 50475 : app_send: seq: 3 to: 1 
+1 at 50532 : app_recv: src: 21 
+45 at 50922 : app_send: seq: 3 to: 1 
+1 at 51034 : app_recv: src: 45 
+6 at 51184 : app_send: seq: 3 to: 1 
+1 at 51201 : app_recv: src: 6 
+3 at 51206 : app_send: seq: 3 to: 1 
+1 at 51223 : app_recv: src: 3 
+13 at 51736 : app_send: seq: 3 to: 1 
+1 at 51767 : app_recv: src: 13 
+7 at 51858 : app_send: seq: 3 to: 1 
+1 at 51876 : app_recv: src: 7 
+27 at 5269

@@ -1,0 +1,1151 @@
+[15:52:47 - AWT-EventQueue-1] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[15:52:47 - AWT-EventQueue-1] [Cooja.java:2886] [INFO] - External tools user settings: /root/.cooja.user.properties
+[15:52:55 - Thread-1] [Simulation.java:422] [INFO] - Simulation random seed: -1166293743463253431
+[15:52:55 - Thread-1] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[15:52:56 - Thread-1] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-node.wismote TARGET=wismote 
+[15:52:56 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:56 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:56 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:56 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:56 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:56 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:57 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:58 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:59 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:59 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:59 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:59 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:52:59 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-root.wismote
+[15:53:00 - Thread-1] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[15:53:01 - Thread-1] [LogScriptEngine.java:265] [INFO] - Script timeout in 21000000 ms
+[15:53:01 - Thread-1] [ScriptRunner.java:387] [INFO] - Test script activated
+[15:53:01 - Thread-1] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[15:54:02 - Thread-4] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1564491242498
+[15:54:30 - Thread-4] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1564491270418	Duration: 27920 ms	Simulated time 12848 ms	Ratio 0.46017191977077365
+[15:54:54 - Thread-3] [LogScriptEngine.java:309] [INFO] - Test script finished
+[15:54:54 - AWT-EventQueue-1] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[15:54:54 - Thread-5] [AbstractRadioMedium.java:196] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@6acace54
+[15:54:54 - Thread-5] [Simulation.java:422] [INFO] - Simulation random seed: -1166293743463253431
+[15:54:54 - Thread-5] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[15:55:03 - Thread-5] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-node.wismote TARGET=wismote 
+[15:55:03 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:04 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:05 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:06 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:06 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:06 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:06 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:06 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:06 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:06 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:06 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:06 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[15:55:06 - Thread-5] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-root.wismote
+[15:55:06 - Thread-5] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[15:55:06 - Thread-5] [LogScriptEngine.java:265] [INFO] - Script timeout in 21000000 ms
+[15:55:06 - Thread-5] [ScriptRunner.java:387] [INFO] - Test script activated
+[15:55:15 - Thread-7] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1564491315203
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:58:59 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:58:59 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:38 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:38 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:38 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:38 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:38 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:38 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:38 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:38 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:46 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:46 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:46 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:46 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:47 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:47 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:47 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:47 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:51 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:51 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[15:59:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[15:59:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:30 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:31 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:31 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:32 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:32 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:32 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:32 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:35 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:35 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:35 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:35 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:35 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:35 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:40 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:40 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:40 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:40 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:00:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:00:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:10 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:10 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:10 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:10 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:10 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:10 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:10 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:10 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:15 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:15 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:16 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:16 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:16 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:16 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:52 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:52 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:52 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:52 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:57 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:01:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:01:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:16 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:16 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:21 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:21 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:02:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:02:58 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:03:56 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:08 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:11 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:33 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:33 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:54 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:04:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:04:55 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:01 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:03 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:04 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:09 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:17 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:18 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:34 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:41 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:41 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:47 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:47 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:47 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:47 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:49 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:49 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:49 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:49 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:49 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:49 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:51 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:51 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:52 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:52 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:52 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:52 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:59 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:59 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:59 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:59 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:59 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:59 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:05:59 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:05:59 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:00 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:02 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:05 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:06 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:06 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:07 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:31 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:31 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:32 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:32 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:36 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:36 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:37 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:39 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:48 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:49 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:49 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:49 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:49 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:06:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:06:50 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:14 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:25 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:25 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:26 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:26 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:28 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:29 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:29 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:29 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:29 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:33 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:33 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:33 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:33 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:35 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:35 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:35 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:35 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:41 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:41 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:43 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:44 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:07:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:07:45 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:12 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:13 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:16 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:16 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:16 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:16 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:19 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:19 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:19 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:19 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:19 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:19 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:19 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:19 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:20 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:22 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:23 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:24 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:25 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:25 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:27 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:27 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:27 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0006
+[16:08:27 - Thread-7] [MspMote.java:229] [WARN] - 1: # MSP430[VOID_IO_READ]: *** IOUnit read from non-existent IO at $0000
+[16:08:37 - Thread-7] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1564492117095	Duration: 801892 ms	Simulated time 311820 ms	Ratio 0.3888553570805046
+[10:07:13 - Thread-6] [LogScriptEngine.java:309] [INFO] - Test script finished
+[10:07:13 - AWT-EventQueue-1] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[10:07:13 - Thread-8] [AbstractRadioMedium.java:196] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@3f1af436
+[10:07:13 - Thread-8] [AbstractRadioMedium.java:196] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@241e1ca3
+[10:07:13 - Thread-8] [AbstractRadioMedium.java:196] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@7b194681
+[10:07:13 - Thread-8] [AbstractRadioMedium.java:196] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@a54ea3
+[10:07:13 - Thread-8] [Simulation.java:422] [INFO] - Simulation random seed: -1166293743463253431
+[10:07:13 - Thread-8] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[10:07:13 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> > make app-p2p-sim-root.wismote TARGET=wismote 
+[10:07:13 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >>   CC        hrpl-tools/hrpl-tools.c
+[10:07:13 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >>   CC        hrpl-tools/simple-energest.c
+[10:07:13 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >>   CC        ../hrpl/hrpl.c
+[10:07:13 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> ../hrpl/hrpl.c: In function ‘hrpl_insert_neighbors_metric’:
+[10:07:13 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> ../hrpl/hrpl.c:77:13: warning: assignment discards ‘const’ qualifier from pointer target type [enabled by default]
+[10:07:13 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> ../hrpl/hrpl.c:83:17: error: request for member ‘sent_flag’ in something not a structure or union
+[10:07:13 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> /home/mahyoub/Dropbox/Implementation/contiki3.0/Makefile.include:240: recipe for target 'obj_wismote/hrpl.o' failed
+[10:07:13 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> make: *** [obj_wismote/hrpl.o] Error 1
+[10:07:13 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> Process returned error code 2
+[10:07:13 - Thread-8] [AbstractMspMoteType.java:154] [FATAL] - Compilation error: Bad return value
+[10:07:43 - Thread-8] [Simulation.java:422] [INFO] - Simulation random seed: -1166293743463253431
+[10:07:43 - Thread-8] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[10:07:58 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >>   CC        /home/mahyoub/Dropbox/Implementation/contiki3.0/core/net/packetbuf.c
+[10:07:58 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >>   CC        /home/mahyoub/Dropbox/Implementation/contiki3.0/core/net/netstack.c
+[10:07:58 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >>   CC        /home/mahyoub/Dropbox/Implementation/contiki3.0/core/net/linkaddr.c
+[10:07:58 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >>   CC        /home/mahyoub/Dropbox/Implementation/contiki3.0/core/net/net-debug.c
+[10:07:58 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >>   CC        /home/mahyoub/Dropbox/Implementation/contiki3.0/core/net/link-stats.c
+[10:07:58 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> /home/mahyoub/Dropbox/Implementation/contiki3.0/core/net/link-stats.c: In function ‘link_stats_packet_sent’:
+[10:07:58 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> /home/mahyoub/Dropbox/Implementation/contiki3.0/core/net/link-stats.c:158:12: error: request for member ‘sent_flag’ in something not a structure or union
+[10:07:58 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> make: *** [obj_wismote/link-stats.o] Error 1
+[10:07:58 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> /home/mahyoub/Dropbox/Implementation/contiki3.0/Makefile.include:240: recipe for target 'obj_wismote/link-stats.o' failed
+[10:07:58 - Thread-8] [AbstractMspMoteType.java:151] [FATAL] - >> Process returned error code 2
+[10:07:58 - Thread-8] [AbstractMspMoteType.java:154] [FATAL] - Compilation error: Bad return value
+[10:09:06 - Thread-8] [Simulation.java:422] [INFO] - Simulation random seed: -1166293743463253431
+[10:09:06 - Thread-8] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[10:09:13 - Thread-8] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-node.wismote TARGET=wismote 
+[10:09:13 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:13 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:13 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:13 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:13 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:13 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:13 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:14 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:09:15 - Thread-8] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-root.wismote
+[10:09:16 - Thread-8] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[10:09:16 - Thread-8] [LogScriptEngine.java:265] [INFO] - Script timeout in 21000000 ms
+[10:09:16 - Thread-8] [ScriptRunner.java:387] [INFO] - Test script activated
+[10:24:14 - Thread-11] [LogScriptEngine.java:309] [INFO] - Test script finished
+[10:24:14 - AWT-EventQueue-1] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[10:24:15 - Thread-12] [Simulation.java:422] [INFO] - Simulation random seed: -1166293743463253431
+[10:24:15 - Thread-12] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[10:24:26 - Thread-12] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-node.wismote TARGET=wismote 
+[10:24:26 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:26 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:26 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:26 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:26 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:26 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:27 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[10:24:28 - Thread-12] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-root.wismote
+[10:24:29 - Thread-12] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[10:24:29 - Thread-12] [LogScriptEngine.java:265] [INFO] - Script timeout in 21000000 ms
+[10:24:29 - Thread-12] [ScriptRunner.java:387] [INFO] - Test script activated
+[10:24:35 - Thread-14] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1564557875868
+[10:27:04 - Thread-14] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1564558024391	Duration: 148523 ms	Simulated time 69475 ms	Ratio 0.46777266820627106
+[08:01:34 - Thread-13] [LogScriptEngine.java:309] [INFO] - Test script finished
+[08:01:34 - AWT-EventQueue-1] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[08:01:35 - Thread-15] [Simulation.java:422] [INFO] - Simulation random seed: -1166293743463253431
+[08:01:35 - Thread-15] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[08:01:35 - Thread-15] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-node.wismote TARGET=wismote 
+[08:01:35 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:36 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:37 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:01:38 - Thread-15] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-root.wismote
+[08:01:39 - Thread-15] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[08:01:39 - Thread-15] [LogScriptEngine.java:265] [INFO] - Script timeout in 21000000 ms
+[08:01:39 - Thread-15] [ScriptRunner.java:387] [INFO] - Test script activated
+[08:01:41 - Thread-17] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1564894901964
+[08:03:01 - Thread-17] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1564894981215	Duration: 79251 ms	Simulated time 32247 ms	Ratio 0.4068970738539577
+[08:03:01 - Thread-16] [LogScriptEngine.java:309] [INFO] - Test script finished
+[08:03:01 - AWT-EventQueue-1] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[08:03:01 - Thread-18] [AbstractRadioMedium.java:196] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@130643c5
+[08:03:02 - Thread-18] [Simulation.java:422] [INFO] - Simulation random seed: -1166293743463253431
+[08:03:02 - Thread-18] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[08:03:03 - Thread-18] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-node.wismote TARGET=wismote 
+[08:03:03 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:03 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:03 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:03 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:03 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:03 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:04 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:05 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:06 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:06 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:06 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:06 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:06 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:06 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:06 - Thread-18] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-root.wismote
+[08:03:06 - Thread-18] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[08:03:06 - Thread-18] [LogScriptEngine.java:265] [INFO] - Script timeout in 21000000 ms
+[08:03:06 - Thread-18] [ScriptRunner.java:387] [INFO] - Test script activated
+[08:03:08 - Thread-20] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1564894988261
+[08:03:25 - Thread-20] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1564895005646	Duration: 17385 ms	Simulated time 11208 ms	Ratio 0.6446937014667817
+[08:03:50 - Thread-19] [LogScriptEngine.java:309] [INFO] - Test script finished
+[08:03:50 - AWT-EventQueue-1] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[08:03:50 - Thread-21] [AbstractRadioMedium.java:196] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@4354f6d4
+[08:03:50 - Thread-21] [Simulation.java:422] [INFO] - Simulation random seed: -1166293743463253431
+[08:03:50 - Thread-21] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[08:03:51 - Thread-21] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-node.wismote TARGET=wismote 
+[08:03:51 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:52 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:53 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[08:03:54 - Thread-21] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-root.wismote
+[08:03:55 - Thread-21] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[08:03:55 - Thread-21] [LogScriptEngine.java:265] [INFO] - Script timeout in 21000000 ms
+[08:03:55 - Thread-21] [ScriptRunner.java:387] [INFO] - Test script activated
+[08:03:56 - Thread-23] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1564895036558
+[08:04:58 - Thread-23] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1564895098352	Duration: 61794 ms	Simulated time 28265 ms	Ratio 0.4574068679807101
+[02:53:43 - Thread-22] [LogScriptEngine.java:309] [INFO] - Test script finished
+[02:53:43 - AWT-EventQueue-1] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[02:53:43 - AWT-EventQueue-1] [AbstractRadioMedium.java:196] [FATAL] - Connection source turned off radio: org.contikios.cooja.mspmote.interfaces.Msp802154Radio@3e3e46ff

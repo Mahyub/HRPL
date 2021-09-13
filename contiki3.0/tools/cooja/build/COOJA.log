@@ -1,0 +1,12 @@
+[04:10:34 - main] [Cooja.java:3172] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[04:10:34 - AWT-EventQueue-1] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[04:10:34 - AWT-EventQueue-1] [Cooja.java:2886] [INFO] - External tools user settings: /root/.cooja.user.properties
+[04:10:41 - AWT-EventQueue-1] [Simulation.java:422] [INFO] - Simulation random seed: -7980048545953671014
+[04:10:41 - AWT-EventQueue-1] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[04:10:56 - AWT-EventQueue-1] [Cooja.java:4140] [WARN] - Path is not portable: '/home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub (copy)/example-full/app-p2p-sim-root.c
+[04:10:57 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[04:11:14 - AWT-EventQueue-1] [Cooja.java:4140] [WARN] - Path is not portable: '/home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub (copy)/example-full/app-p2p-sim-node.c
+[04:11:16 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-node.wismote TARGET=wismote 
+[04:12:43 - AWT-EventQueue-1] [Cooja.java:4140] [WARN] - Path is not portable: '/home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub (copy)/example-full/app-p2p-sim-root.c
+[04:12:44 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[04:13:43 - AWT-EventQueue-1] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 

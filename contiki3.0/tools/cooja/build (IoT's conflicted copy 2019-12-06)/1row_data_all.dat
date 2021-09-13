@@ -1,0 +1,949 @@
+#id  @ time(ms)          message
+49  235   Rime started with address 0.0.0.0.0.0.0.49
+31  238   MAC 00:00:00:00:00:00:00:1f Contiki-3.x-3343-gbc2e44581 started. Node id is set to 31.
+31  247   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+49  249   MAC 00:00:00:00:00:00:00:31 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 49.
+49  257   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+31  260   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+31  270   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+49  270   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+31  272   HRPL: RPL started
+49  280   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+31  280   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+49  283   HRPL: RPL started
+49  291   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+31  291   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:001f
+7  292   Rime started with address 0.0.0.0.0.0.0.7
+31  294   Starting 'app-p2p-node'
+31  298   new udp socket is registered
+49  301   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0031
+31  303   I am node 31 in the sending list
+8  304   Rime started with address 0.0.0.0.0.0.0.8
+49  304   Starting 'app-p2p-node'
+7  305   MAC 00:00:00:00:00:00:00:07 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 7.
+49  309   new udp socket is registered
+49  312   I am in the receiving list
+7  314   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+8  318   MAC 00:00:00:00:00:00:00:08 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 8.
+48  319   Rime started with address 0.0.0.0.0.0.0.48
+8  326   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+7  327   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+48  333   MAC 00:00:00:00:00:00:00:30 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 48.
+7  337   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+8  339   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+7  339   HRPL: RPL started
+48  341   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+7  347   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+8  349   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+8  352   HRPL: RPL started
+48  354   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+33  356   Rime started with address 0.0.0.0.0.0.0.33
+7  358   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0007
+8  360   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+7  361   Starting 'app-p2p-node'
+48  364   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+7  365   new udp socket is registered
+48  366   HRPL: RPL started
+33  370   MAC 00:00:00:00:00:00:00:21 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 33.
+8  370   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0008
+8  374   Starting 'app-p2p-node'
+48  375   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+8  378   new udp socket is registered
+33  378   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+47  383   Rime started with address 0.0.0.0.0.0.0.47
+48  385   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0030
+48  388   Starting 'app-p2p-node'
+33  391   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+48  392   new udp socket is registered
+45  396   Rime started with address 0.0.0.0.0.0.0.45
+47  397   MAC 00:00:00:00:00:00:00:2f Contiki-3.x-3343-gbc2e44581 started. Node id is set to 47.
+48  397   I am node 48 in the sending list
+33  401   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+33  404   HRPL: RPL started
+47  406   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+45  410   MAC 00:00:00:00:00:00:00:2d Contiki-3.x-3343-gbc2e44581 started. Node id is set to 45.
+33  412   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+47  418   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+45  419   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+38  420   Rime started with address 0.0.0.0.0.0.0.38
+33  422   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0021
+33  425   Starting 'app-p2p-node'
+47  428   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+33  430   new udp socket is registered
+50  430   Rime started with address 0.0.0.0.0.0.0.50
+47  431   HRPL: RPL started
+45  431   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+38  434   MAC 00:00:00:00:00:00:00:26 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 38.
+33  434   I am node 33 in the sending list
+32  437   Rime started with address 0.0.0.0.0.0.0.32
+47  439   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+45  441   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+38  442   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+50  444   MAC 00:00:00:00:00:00:00:32 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 50.
+45  444   HRPL: RPL started
+47  450   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:002f
+32  451   MAC 00:00:00:00:00:00:00:20 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 32.
+45  452   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+50  452   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+47  453   Starting 'app-p2p-node'
+38  455   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+47  457   new udp socket is registered
+32  460   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+47  462   I am node 47 in the sending list
+45  462   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:002d
+38  465   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+50  465   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+45  466   Starting 'app-p2p-node'
+38  467   HRPL: RPL started
+27  468   Rime started with address 0.0.0.0.0.0.0.27
+45  470   new udp socket is registered
+32  473   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+45  474   I am in the receiving list
+50  475   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+38  476   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+50  478   HRPL: RPL started
+27  482   MAC 00:00:00:00:00:00:00:1b Contiki-3.x-3343-gbc2e44581 started. Node id is set to 27.
+32  482   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+32  485   HRPL: RPL started
+50  486   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+38  486   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0026
+38  489   Starting 'app-p2p-node'
+27  491   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+32  493   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+38  493   new udp socket is registered
+50  496   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0032
+38  498   I am node 38 in the sending list
+50  500   Starting 'app-p2p-node'
+27  503   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+50  504   new udp socket is registered
+32  504   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0020
+32  507   Starting 'app-p2p-node'
+50  508   I am in the receiving list
+24  511   Rime started with address 0.0.0.0.0.0.0.24
+32  511   new udp socket is registered
+27  513   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+32  516   I am node 32 in the sending list
+27  516   HRPL: RPL started
+27  524   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+24  525   MAC 00:00:00:00:00:00:00:18 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 24.
+30  529   Rime started with address 0.0.0.0.0.0.0.30
+24  533   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+27  534   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:001b
+27  538   Starting 'app-p2p-node'
+16  539   Rime started with address 0.0.0.0.0.0.0.16
+27  542   new udp socket is registered
+30  543   MAC 00:00:00:00:00:00:00:1e Contiki-3.x-3343-gbc2e44581 started. Node id is set to 30.
+24  546   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+27  547   I am node 27 in the sending list
+30  552   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+16  553   MAC 00:00:00:00:00:00:00:10 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 16.
+24  556   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+24  559   HRPL: RPL started
+16  562   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+30  565   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+24  567   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+16  574   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+30  574   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+30  577   HRPL: RPL started
+24  577   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0018
+24  581   Starting 'app-p2p-node'
+16  584   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+24  585   new udp socket is registered
+30  585   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+16  587   HRPL: RPL started
+24  589   I am in the receiving list
+25  589   Rime started with address 0.0.0.0.0.0.0.25
+42  592   Rime started with address 0.0.0.0.0.0.0.42
+16  595   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+30  596   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:001e
+34  596   Rime started with address 0.0.0.0.0.0.0.34
+30  599   Starting 'app-p2p-node'
+30  603   new udp socket is registered
+25  603   MAC 00:00:00:00:00:00:00:19 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 25.
+16  605   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0010
+42  606   MAC 00:00:00:00:00:00:00:2a Contiki-3.x-3343-gbc2e44581 started. Node id is set to 42.
+30  607   I am in the receiving list
+16  609   Starting 'app-p2p-node'
+34  610   MAC 00:00:00:00:00:00:00:22 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 34.
+25  612   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+16  613   new udp socket is registered
+42  615   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+16  618   I am node 16 in the sending list
+9  618   Rime started with address 0.0.0.0.0.0.0.9
+34  619   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+25  625   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+19  627   Rime started with address 0.0.0.0.0.0.0.19
+42  627   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+34  631   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+9  632   MAC 00:00:00:00:00:00:00:09 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 9.
+25  634   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+42  637   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+25  637   HRPL: RPL started
+42  640   HRPL: RPL started
+9  640   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+19  641   MAC 00:00:00:00:00:00:00:13 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 19.
+34  641   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+34  644   HRPL: RPL started
+25  645   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+42  648   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+19  649   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+34  652   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+9  653   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+25  656   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0019
+12  658   Rime started with address 0.0.0.0.0.0.0.12
+42  658   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:002a
+25  659   Starting 'app-p2p-node'
+42  662   Starting 'app-p2p-node'
+19  662   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+34  662   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0022
+9  663   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+25  663   new udp socket is registered
+9  666   HRPL: RPL started
+34  666   Starting 'app-p2p-node'
+42  666   new udp socket is registered
+25  667   I am in the receiving list
+34  670   new udp socket is registered
+42  671   I am node 42 in the sending list
+19  672   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+12  672   MAC 00:00:00:00:00:00:00:0c Contiki-3.x-3343-gbc2e44581 started. Node id is set to 12.
+34  674   I am in the receiving list
+9  674   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+19  675   HRPL: RPL started
+29  679   Rime started with address 0.0.0.0.0.0.0.29
+12  681   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+19  683   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+9  684   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0009
+5  685   Rime started with address 0.0.0.0.0.0.0.5
+9  687   Starting 'app-p2p-node'
+2  688   Rime started with address 0.0.0.0.0.0.0.2
+9  692   new udp socket is registered
+29  693   MAC 00:00:00:00:00:00:00:1d Contiki-3.x-3343-gbc2e44581 started. Node id is set to 29.
+19  693   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0013
+12  693   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+9  695   I am in the receiving list
+19  696   Starting 'app-p2p-node'
+5  699   MAC 00:00:00:00:00:00:00:05 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 5.
+19  701   new udp socket is registered
+29  702   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+2  702   MAC 00:00:00:00:00:00:00:02 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 2.
+12  703   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+21  704   Rime started with address 0.0.0.0.0.0.0.21
+19  705   I am in the receiving list
+12  706   HRPL: RPL started
+5  708   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+2  711   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+12  714   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+29  714   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+21  718   MAC 00:00:00:00:00:00:00:15 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 21.
+5  720   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+26  721   Rime started with address 0.0.0.0.0.0.0.26
+2  723   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+29  724   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+12  725   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:000c
+21  726   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+29  727   HRPL: RPL started
+12  728   Starting 'app-p2p-node'
+5  730   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+10  732   Rime started with address 0.0.0.0.0.0.0.10
+12  732   new udp socket is registered
+5  733   HRPL: RPL started
+2  733   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+26  734   MAC 00:00:00:00:00:00:00:1a Contiki-3.x-3343-gbc2e44581 started. Node id is set to 26.
+29  735   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+2  736   HRPL: RPL started
+12  737   I am node 12 in the sending list
+21  739   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+23  740   Rime started with address 0.0.0.0.0.0.0.23
+5  741   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+26  743   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+2  744   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+29  745   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:001d
+10  746   MAC 00:00:00:00:00:00:00:0a Contiki-3.x-3343-gbc2e44581 started. Node id is set to 10.
+29  749   Starting 'app-p2p-node'
+21  749   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+5  752   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0005
+21  752   HRPL: RPL started
+29  753   new udp socket is registered
+10  754   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+2  754   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0002
+23  754   MAC 00:00:00:00:00:00:00:17 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 23.
+5  755   Starting 'app-p2p-node'
+26  756   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+29  757   I am in the receiving list
+2  758   Starting 'app-p2p-node'
+5  759   new udp socket is registered
+21  760   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+2  762   new udp socket is registered
+5  763   I am in the receiving list
+23  763   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+26  766   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+10  767   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+11  768   Rime started with address 0.0.0.0.0.0.0.11
+26  768   HRPL: RPL started
+21  770   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0015
+21  773   Starting 'app-p2p-node'
+23  776   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+26  776   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+10  777   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+21  778   new udp socket is registered
+10  779   HRPL: RPL started
+11  782   MAC 00:00:00:00:00:00:00:0b Contiki-3.x-3343-gbc2e44581 started. Node id is set to 11.
+21  782   I am node 21 in the sending list
+23  786   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+26  787   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:001a
+10  788   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+23  788   HRPL: RPL started
+26  790   Starting 'app-p2p-node'
+11  791   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+26  794   new udp socket is registered
+23  796   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+10  798   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:000a
+26  799   I am node 26 in the sending list
+10  801   Starting 'app-p2p-node'
+11  803   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+10  805   new udp socket is registered
+23  807   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0017
+10  809   I am in the receiving list
+23  810   Starting 'app-p2p-node'
+11  813   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+23  814   new udp socket is registered
+11  816   HRPL: RPL started
+23  819   I am node 23 in the sending list
+11  824   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+11  834   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:000b
+11  838   Starting 'app-p2p-node'
+11  842   new udp socket is registered
+46  845   Rime started with address 0.0.0.0.0.0.0.46
+11  847   I am node 11 in the sending list
+46  859   MAC 00:00:00:00:00:00:00:2e Contiki-3.x-3343-gbc2e44581 started. Node id is set to 46.
+28  864   Rime started with address 0.0.0.0.0.0.0.28
+46  868   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+28  878   MAC 00:00:00:00:00:00:00:1c Contiki-3.x-3343-gbc2e44581 started. Node id is set to 28.
+46  881   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+28  887   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+46  890   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+46  893   HRPL: RPL started
+28  900   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+22  900   Rime started with address 0.0.0.0.0.0.0.22
+46  901   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+14  903   Rime started with address 0.0.0.0.0.0.0.14
+4  904   Rime started with address 0.0.0.0.0.0.0.4
+28  909   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+46  912   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:002e
+28  912   HRPL: RPL started
+22  914   MAC 00:00:00:00:00:00:00:16 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 22.
+46  915   Starting 'app-p2p-node'
+14  917   MAC 00:00:00:00:00:00:00:0e Contiki-3.x-3343-gbc2e44581 started. Node id is set to 14.
+4  918   MAC 00:00:00:00:00:00:00:04 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 4.
+46  919   new udp socket is registered
+28  920   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+22  923   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+46  924   I am node 46 in the sending list
+14  926   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+4  927   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+28  931   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:001c
+28  934   Starting 'app-p2p-node'
+22  936   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+28  938   new udp socket is registered
+14  938   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+4  939   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+28  943   I am node 28 in the sending list
+22  945   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+22  948   HRPL: RPL started
+14  948   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+4  949   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+14  951   HRPL: RPL started
+4  952   HRPL: RPL started
+22  956   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+14  959   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+4  960   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+22  967   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0016
+14  970   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:000e
+22  970   Starting 'app-p2p-node'
+4  971   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0004
+14  973   Starting 'app-p2p-node'
+4  974   Starting 'app-p2p-node'
+22  974   new udp socket is registered
+14  977   new udp socket is registered
+4  978   new udp socket is registered
+22  979   I am node 22 in the sending list
+14  981   I am in the receiving list
+4  982   I am in the receiving list
+36  987   Rime started with address 0.0.0.0.0.0.0.36
+36  1001   MAC 00:00:00:00:00:00:00:24 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 36.
+39  1003   Rime started with address 0.0.0.0.0.0.0.39
+36  1009   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+39  1017   MAC 00:00:00:00:00:00:00:27 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 39.
+36  1022   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+39  1025   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+43  1030   Rime started with address 0.0.0.0.0.0.0.43
+36  1032   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+36  1035   HRPL: RPL started
+39  1038   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+36  1043   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+43  1044   MAC 00:00:00:00:00:00:00:2b Contiki-3.x-3343-gbc2e44581 started. Node id is set to 43.
+39  1048   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+39  1051   HRPL: RPL started
+43  1053   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+36  1053   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0024
+18  1054   Rime started with address 0.0.0.0.0.0.0.18
+36  1056   Starting 'app-p2p-node'
+39  1059   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+36  1061   new udp socket is registered
+43  1065   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+36  1065   I am node 36 in the sending list
+37  1067   Rime started with address 0.0.0.0.0.0.0.37
+18  1068   MAC 00:00:00:00:00:00:00:12 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 18.
+39  1069   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0027
+39  1072   Starting 'app-p2p-node'
+43  1075   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+39  1077   new udp socket is registered
+18  1077   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+43  1078   HRPL: RPL started
+39  1080   I am in the receiving list
+37  1081   MAC 00:00:00:00:00:00:00:25 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 37.
+43  1086   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+18  1089   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+37  1090   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+43  1096   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:002b
+18  1099   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+43  1100   Starting 'app-p2p-node'
+18  1102   HRPL: RPL started
+37  1103   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+43  1104   new udp socket is registered
+13  1108   Rime started with address 0.0.0.0.0.0.0.13
+43  1109   I am node 43 in the sending list
+40  1109   Rime started with address 0.0.0.0.0.0.0.40
+18  1110   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+37  1112   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+37  1115   HRPL: RPL started
+18  1120   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0012
+13  1122   MAC 00:00:00:00:00:00:00:0d Contiki-3.x-3343-gbc2e44581 started. Node id is set to 13.
+37  1123   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+40  1123   MAC 00:00:00:00:00:00:00:28 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 40.
+18  1124   Starting 'app-p2p-node'
+18  1128   new udp socket is registered
+17  1130   Rime started with address 0.0.0.0.0.0.0.17
+13  1131   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+40  1132   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+18  1133   I am node 18 in the sending list
+37  1134   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0025
+37  1137   Starting 'app-p2p-node'
+37  1141   new udp socket is registered
+13  1143   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+17  1144   MAC 00:00:00:00:00:00:00:11 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 17.
+40  1145   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+37  1146   I am node 37 in the sending list
+3  1149   Rime started with address 0.0.0.0.0.0.0.3
+17  1153   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+13  1153   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+41  1154   Rime started with address 0.0.0.0.0.0.0.41
+40  1155   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+13  1156   HRPL: RPL started
+40  1157   HRPL: RPL started
+20  1160   Rime started with address 0.0.0.0.0.0.0.20
+35  1162   Rime started with address 0.0.0.0.0.0.0.35
+3  1163   MAC 00:00:00:00:00:00:00:03 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 3.
+13  1164   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+40  1165   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+17  1166   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+41  1168   MAC 00:00:00:00:00:00:00:29 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 41.
+3  1171   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+20  1174   MAC 00:00:00:00:00:00:00:14 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 20.
+13  1174   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:000d
+17  1176   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+40  1176   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0028
+35  1176   MAC 00:00:00:00:00:00:00:23 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 35.
+41  1177   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+13  1178   Starting 'app-p2p-node'
+17  1178   HRPL: RPL started
+44  1179   Rime started with address 0.0.0.0.0.0.0.44
+40  1179   Starting 'app-p2p-node'
+6  1181   Rime started with address 0.0.0.0.0.0.0.6
+13  1182   new udp socket is registered
+20  1182   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+40  1183   new udp socket is registered
+15  1184   Rime started with address 0.0.0.0.0.0.0.15
+3  1184   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+35  1185   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+1  1186   Rime started with address 0.0.0.0.0.0.0.1
+17  1186   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+13  1187   I am node 13 in the sending list
+40  1187   I am in the receiving list
+41  1189   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+44  1192   MAC 00:00:00:00:00:00:00:2c Contiki-3.x-3343-gbc2e44581 started. Node id is set to 44.
+3  1194   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+6  1195   MAC 00:00:00:00:00:00:00:06 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 6.
+20  1195   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+3  1197   HRPL: RPL started
+17  1197   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0011
+35  1197   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+15  1198   MAC 00:00:00:00:00:00:00:0f Contiki-3.x-3343-gbc2e44581 started. Node id is set to 15.
+41  1199   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+1  1200   MAC 00:00:00:00:00:00:00:01 Contiki-3.x-3343-gbc2e44581 started. Node id is set to 1.
+17  1200   Starting 'app-p2p-node'
+44  1201   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+41  1202   HRPL: RPL started
+6  1203   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+17  1204   new udp socket is registered
+3  1205   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+20  1205   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+15  1206   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+35  1207   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+20  1208   HRPL: RPL started
+1  1209   CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+17  1209   I am node 17 in the sending list
+35  1210   HRPL: RPL started
+41  1210   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+44  1214   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+3  1215   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0003
+20  1216   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+6  1216   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+35  1218   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+3  1218   Starting 'app-p2p-node'
+15  1219   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+41  1221   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0029
+1  1221   HRPL: Init of IPv6 data structures, 30 neighbors 0 MAX_ROUTES 2 default routers 3 prefixes
+3  1223   new udp socket is registered
+44  1224   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+41  1224   Starting 'app-p2p-node'
+6  1226   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+20  1226   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0014
+44  1226   HRPL: RPL started
+41  1228   new udp socket is registered
+35  1228   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0023
+6  1229   HRPL: RPL started
+15  1229   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+20  1229   Starting 'app-p2p-node'
+1  1231   0 routes 3 unicast addresses 5 multicast addresses 2 anycast addresses
+15  1232   HRPL: RPL started
+35  1232   Starting 'app-p2p-node'
+41  1233   I am node 41 in the sending list
+20  1234   new udp socket is registered
+1  1234   HRPL: RPL started
+44  1234   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+35  1236   new udp socket is registered
+6  1237   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+20  1237   I am in the receiving list
+35  1240   I am in the receiving list
+15  1240   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+1  1242   HRPL: The Mode of operation is Non-Storing Mode With_HRPL
+44  1245   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:002c
+6  1247   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0006
+44  1248   Starting 'app-p2p-node'
+15  1250   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:000f
+6  1250   Starting 'app-p2p-node'
+44  1252   new udp socket is registered
+1  1252   Tentative link-local IPv6 address fe80:0000:0000:0000:0200:0000:0000:0001
+15  1254   Starting 'app-p2p-node'
+6  1255   new udp socket is registered
+1  1256   Starting 'app-p2p-root'
+44  1256   I am in the receiving list
+15  1258   new udp socket is registered
+1  1260   created a new RPL dag
+15  1262   I am in the receiving list
+24  1554   rpl_dis: send
+16  1582   rpl_dis: send
+5  1728   rpl_dis: send
+39  2046   rpl_dis: send
+43  2073   rpl_dis: send
+20  2203   rpl_dis: send
+35  2205   rpl_dis: send
+1  5081   rpl_dio: send
+21  5101   #L 1 1
+27  5117   #L 1 1
+26  5121   #L 1 1
+31  5125   #L 1 1
+28  5137   #L 1 1
+17  5156   #L 1 1
+11  5164   #L 1 1
+22  5176   #L 1 1
+14  5176   #L 1 1
+12  5184   #L 1 1
+16  5188   #L 1 1
+7  5192   #L 1 1
+6  5204   #L 1 1
+2  5212   #L 1 1
+32  5212   #L 1 1
+37  5216   #L 1 1
+47  6426   rpl_dis: send
+17  7306   rpl_dao: send
+37  7313   rpl_dio: send
+17  7323   mahy ewma_alpha = 30
+17  7326   mahy1 stats->etx= 217
+13  7384   #L 37 1
+23  7388   #L 37 1
+36  7388   #L 37 1
+9  7392   #L 37 1
+19  7401   #L 37 1
+18  7454   #L 37 1
+8  7454   #L 37 1
+14  7485   rpl_dao: send
+14  7503   mahy ewma_alpha = 30
+14  7506   mahy1 stats->etx= 217
+14  7512   mahy ewma_alpha = 30
+14  7515   mahy1 stats->etx= 190
+2  7567   rpl_dio: send
+27  7581   rpl_dio: send
+12  7608   rpl_dao: send
+11  7639   rpl_dao: send
+3  7673   #L 2 1
+11  7762   mahy ewma_alpha = 30
+11  7765   mahy1 stats->etx= 217
+11  7772   mahy ewma_alpha = 30
+11  7775   mahy1 stats->etx= 190
+6  7825   rpl_dio: send
+31  7853   rpl_dio: send
+16  7887   rpl_dio: send
+7  7890   rpl_dao: send
+6  7966   rpl_dao: send
+6  7984   mahy ewma_alpha = 30
+17  7986   rpl_dio: send
+6  7987   mahy1 stats->etx= 217
+6  7993   mahy ewma_alpha = 30
+6  7996   mahy1 stats->etx= 190
+2  8177   rpl_dao: send
+28  8181   rpl_dio: send
+2  8194   mahy ewma_alpha = 30
+2  8197   mahy1 stats->etx= 217
+21  8200   rpl_dio: send
+2  8204   mahy ewma_alpha = 30
+2  8207   mahy1 stats->etx= 190
+11  8233   rpl_dio: send
+14  8321   rpl_dio: send
+7  8389   rpl_dio: send
+16  8402   rpl_dio: send
+32  8519   rpl_dio: send
+7  8543   mahy ewma_alpha = 30
+7  8546   mahy1 stats->etx= 217
+7  8553   mahy ewma_alpha = 30
+7  8557   mahy1 stats->etx= 190
+11  8623   rpl_dio: send
+22  8842   rpl_dio: send
+16  8845   mahy ewma_alpha = 30
+16  8848   mahy1 stats->etx= 217
+27  8880   rpl_dio: send
+19  8928   rpl_dio: send
+27  9000   mahy ewma_alpha = 30
+27  9003   mahy1 stats->etx= 217
+26  9052   rpl_dio: send
+19  9091   mahy ewma_alpha = 30
+19  9094   mahy1 stats->etx= 217
+12  9217   rpl_dio: send
+19  9436   rpl_dao: send
+23  9479   rpl_dio: send
+16  9497   rpl_dao: send
+18  9543   rpl_dao: send
+26  9560   rpl_dio: send
+23  9592   mahy ewma_alpha = 30
+23  9595   mahy1 stats->etx= 217
+23  9597   rpl_dio: send
+9  9692   rpl_dio: send
+13  9754   rpl_dao: send
+28  9798   rpl_dio: send
+13  9845   mahy ewma_alpha = 30
+13  9848   mahy1 stats->etx= 217
+13  9856   mahy ewma_alpha = 30
+13  9859   mahy1 stats->etx= 190
+37  9871   mahy ewma_alpha = 30
+37  9874   mahy1 stats->etx= 217
+37  9887   mahy ewma_alpha = 30
+37  9890   mahy1 stats->etx= 190
+13  9948   rpl_dio: send
+12  9951   rpl_dio: send
+9  9975   rpl_dao: send
+8  10094   rpl_dao: send
+8  10220   mahy ewma_alpha = 30
+8  10223   mahy1 stats->etx= 217
+8  10231   mahy ewma_alpha = 30
+8  10234   mahy1 stats->etx= 190
+37  10268   rpl_dao: send
+9  10343   mahy ewma_alpha = 30
+9  10346   mahy1 stats->etx= 217
+9  10354   mahy ewma_alpha = 30
+9  10357   mahy1 stats->etx= 190
+28  10459   mahy ewma_alpha = 30
+28  10462   mahy1 stats->etx= 217
+12  10482   rpl_dio: send
+31  10503   rpl_dao: send
+32  10537   rpl_dao: send
+3  10583   rpl_dao: send
+19  10592   mahy ewma_alpha = 30
+19  10595   mahy1 stats->etx= 190
+19  10603   mahy ewma_alpha = 30
+19  10606   mahy1 stats->etx= 171
+3  10606   rpl_dio: send
+12  10614   mahy ewma_alpha = 30
+12  10617   mahy1 stats->etx= 217
+12  10623   mahy ewma_alpha = 30
+12  10626   mahy1 stats->etx= 190
+4  10677   #L 3 1
+28  10682   rpl_dao: send
+27  10717   rpl_dao: send
+26  10786   rpl_dao: send
+3  10842   mahy ewma_alpha = 30
+3  10845   mahy1 stats->etx= 217
+31  10848   mahy ewma_alpha = 30
+3  10851   mahy ewma_alpha = 30
+31  10851   mahy1 stats->etx= 217
+3  10854   mahy1 stats->etx= 190
+31  10860   mahy ewma_alpha = 30
+18  10863   rpl_dio: send
+31  10863   mahy1 stats->etx= 190
+11  10891   mahy ewma_alpha = 15
+11  10894   mahy1 stats->etx= 199
+36  10967   rpl_dio: send
+2  11014   mahy ewma_alpha = 30
+2  11017   mahy1 stats->etx= 171
+2  11024   mahy ewma_alpha = 15
+2  11027   mahy1 stats->etx= 164
+21  11030   rpl_dao: send
+22  11072   rpl_dao: send
+14  11126   rpl_dio: send
+18  11220   mahy ewma_alpha = 30
+8  11222   rpl_dio: send
+18  11223   mahy1 stats->etx= 256
+18  11231   mahy ewma_alpha = 30
+18  11234   mahy1 stats->etx= 217
+14  11256   mahy ewma_alpha = 30
+14  11259   mahy1 stats->etx= 171
+13  11354   rpl_dio: send
+16  11387   rpl_dio: send
+19  11388   rpl_dio: send
+32  11595   mahy ewma_alpha = 30
+32  11599   mahy1 stats->etx= 217
+32  11607   mahy ewma_alpha = 30
+32  11610   mahy1 stats->etx= 190
+21  11682   mahy ewma_alpha = 30
+21  11685   mahy1 stats->etx= 217
+21  11694   mahy ewma_alpha = 30
+21  11697   mahy1 stats->etx= 190
+28  11710   mahy ewma_alpha = 30
+28  11713   mahy1 stats->etx= 190
+11  12050   rpl_dio: send
+11  12066   mahy ewma_alpha = 15
+11  12069   mahy1 stats->etx= 188
+8  12144   rpl_dio: send
+2  12176   rpl_dio: send
+27  12439   mahy ewma_alpha = 30
+27  12442   mahy1 stats->etx= 190
+27  12450   mahy ewma_alpha = 30
+27  12453   mahy1 stats->etx= 171
+36  12502   rpl_dao: send
+16  12518   mahy ewma_alpha = 30
+16  12521   mahy1 stats->etx= 228
+16  12529   mahy ewma_alpha = 15
+16  12532   mahy1 stats->etx= 213
+8  12593   mahy ewma_alpha = 30
+8  12596   mahy1 stats->etx= 171
+36  12717   mahy ewma_alpha = 30
+36  12720   mahy1 stats->etx= 217
+36  12729   mahy ewma_alpha = 30
+36  12732   mahy1 stats->etx= 190
+28  12739   mahy ewma_alpha = 30
+28  12743   mahy1 stats->etx= 171
+13  12823   rpl_dio: send
+2  12900   mahy ewma_alpha = 15
+2  12903   mahy1 stats->etx= 158
+26  12911   mahy ewma_alpha = 30
+26  12914   mahy1 stats->etx= 256
+26  12930   mahy ewma_alpha = 30
+26  12933   mahy1 stats->etx= 217
+26  12941   mahy ewma_alpha = 15
+26  12944   mahy1 stats->etx= 203
+16  12977   mahy ewma_alpha = 15
+16  12980   mahy1 stats->etx= 200
+13  13091   mahy ewma_alpha = 15
+13  13095   mahy1 stats->etx= 199
+23  13207   rpl_dao: send
+13  13217   mahy ewma_alpha = 15
+13  13220   mahy1 stats->etx= 188
+12  13229   mahy ewma_alpha = 30
+12  13232   mahy1 stats->etx= 171
+23  13345   mahy ewma_alpha = 30
+23  13349   mahy1 stats->etx= 190
+23  13357   mahy ewma_alpha = 30
+23  13360   mahy1 stats->etx= 171
+12  13370   mahy ewma_alpha = 15
+12  13373   mahy1 stats->etx= 164
+4  13534   rpl_dao: send
+11  13600   rpl_dio: send
+26  13615   rpl_dio: send
+14  13634   rpl_dio: send
+6  13646   rpl_dio: send
+4  13675   mahy ewma_alpha = 30
+4  13678   mahy1 stats->etx= 217
+17  13869   rpl_dio: send
+2  13919   rpl_dio: send
+4  14190   rpl_dio: send
+3  14216   mahy ewma_alpha = 15
+3  14219   mahy1 stats->etx= 238
+2  14230   mahy ewma_alpha = 15
+2  14233   mahy1 stats->etx= 153
+16  14262   rpl_dio: send
+16  14277   mahy ewma_alpha = 15
+16  14280   mahy1 stats->etx= 189
+5  14335   #L 4 1
+3  14552   #L 2 1
+12  14709   rpl_dio: send
+32  14957   rpl_dio: send
+27  15042   rpl_dio: send
+12  15206   rpl_dio: send
+37  15210   mahy ewma_alpha = 15
+37  15213   mahy1 stats->etx= 199
+12  15221   mahy ewma_alpha = 15
+12  15224   mahy1 stats->etx= 158
+37  15240   mahy ewma_alpha = 15
+37  15243   mahy1 stats->etx= 188
+37  15259   mahy ewma_alpha = 15
+37  15262   mahy1 stats->etx= 179
+37  15270   mahy ewma_alpha = 15
+37  15273   mahy1 stats->etx= 171
+37  15283   mahy ewma_alpha = 15
+37  15286   mahy1 stats->etx= 164
+37  15294   mahy ewma_alpha = 15
+37  15297   mahy1 stats->etx= 158
+13  15620   rpl_dio: send
+22  15826   rpl_dio: send
+37  15868   rpl_dio: send
+28  16087   rpl_dio: send
+8  16096   #L 37 1
+18  16104   #L 37 1
+17  16111   rpl_dio: send
+23  16153   #L 37 1
+13  16153   #L 37 1
+36  16161   #L 37 1
+9  16165   #L 37 1
+19  16176   #L 37 1
+5  16392   rpl_dio: send
+18  16410   rpl_dio: send
+18  16467   mahy ewma_alpha = 15
+18  16470   mahy1 stats->etx= 203
+17  16506   mahy ewma_alpha = 30
+10  16507   #L 5 1
+17  16509   mahy1 stats->etx= 190
+36  16553   rpl_dio: send
+16  16679   rpl_dio: send
+19  16809   rpl_dio: send
+22  17069   mahy ewma_alpha = 30
+22  17072   mahy1 stats->etx= 294
+22  17081   mahy ewma_alpha = 15
+22  17084   mahy1 stats->etx= 269
+36  17147   rpl_dio: send
+31  17174   rpl_dio: send
+7  17202   rpl_dio: send
+36  17217   mahy ewma_alpha = 30
+36  17220   mahy1 stats->etx= 171
+21  17325   rpl_dio: send
+8  17785   rpl_dio: send
+5  17807   rpl_dao: send
+23  17877   rpl_dio: send
+5  18055   mahy ewma_alpha = 30
+5  18058   mahy1 stats->etx= 256
+4  18175   mahy ewma_alpha = 30
+4  18178   mahy1 stats->etx= 190
+3  18212   mahy ewma_alpha = 15
+3  18215   mahy1 stats->etx= 221
+2  18308   mahy ewma_alpha = 15
+2  18311   mahy1 stats->etx= 149
+37  18399   rpl_dio: send
+9  18450   rpl_dio: send
+37  18529   mahy ewma_alpha = 15
+37  18532   mahy1 stats->etx= 153
+3  18653   rpl_dio: send
+4  18681   #L 3 1
+19  18982   rpl_dio: send
+10  19032   rpl_dao: send
+10  19087   mahy ewma_alpha = 30
+10  19090   mahy1 stats->etx= 217
+19  19093   mahy ewma_alpha = 15
+19  19096   mahy1 stats->etx= 164
+5  19306   mahy ewma_alpha = 15
+5  19309   mahy1 stats->etx= 256
+10  19384   rpl_dio: send
+4  19425   mahy ewma_alpha = 30
+4  19428   mahy1 stats->etx= 171
+18  19644   rpl_dio: send
+15  19709   #L 10 1
+3  19839   mahy ewma_alpha = 15
+3  19842   mahy1 stats->etx= 245
+2  19852   mahy ewma_alpha = 15
+2  19855   mahy1 stats->etx= 145
+27  20417   rpl_dio: send
+27  20433   mahy ewma_alpha = 15
+27  20436   mahy1 stats->etx= 164
+4  20994   rpl_dio: send
+26  21037   rpl_dio: send
+26  21053   mahy ewma_alpha = 15
+26  21056   mahy1 stats->etx= 191
+5  21083   #L 4 1
+23  21119   rpl_dio: send
+23  21218   mahy ewma_alpha = 15
+23  21221   mahy1 stats->etx= 164
+8  21511   rpl_dio: send
+8  21593   mahy ewma_alpha = 15
+8  21596   mahy1 stats->etx= 164
+9  21645   rpl_dio: send
+9  21719   mahy ewma_alpha = 30
+9  21722   mahy1 stats->etx= 171
+7  21952   rpl_dio: send
+15  21961   rpl_dao: send
+7  21968   mahy ewma_alpha = 30
+7  21971   mahy1 stats->etx= 171
+15  22007   mahy ewma_alpha = 30
+15  22010   mahy1 stats->etx= 217
+10  22088   mahy ewma_alpha = 30
+10  22091   mahy1 stats->etx= 190
+5  22178   mahy ewma_alpha = 15
+5  22181   mahy1 stats->etx= 236
+22  22248   rpl_dio: send
+22  22264   mahy ewma_alpha = 15
+22  22267   mahy1 stats->etx= 247
+4  22298   mahy ewma_alpha = 15
+4  22301   mahy1 stats->etx= 164
+3  22340   mahy ewma_alpha = 15
+3  22343   mahy1 stats->etx= 227
+2  22354   mahy ewma_alpha = 15
+2  22357   mahy1 stats->etx= 142
+28  22439   rpl_dio: send
+28  22454   mahy ewma_alpha = 15
+28  22457   mahy1 stats->etx= 164
+3  22645   rpl_dio: send
+17  22666   rpl_dio: send
+3  22715   mahy ewma_alpha = 15
+3  22718   mahy1 stats->etx= 212
+17  22733   mahy ewma_alpha = 30
+17  22736   mahy1 stats->etx= 171
+15  23430   rpl_dio: send
+20  23558   #L 15 1
+5  23791   rpl_dio: send
+10  23880   #L 5 1
+32  24684   rpl_dio: send
+32  24699   mahy ewma_alpha = 30
+32  24703   mahy1 stats->etx= 171
+15  24953   rpl_dio: send
+15  25006   mahy ewma_alpha = 30
+15  25009   mahy1 stats->etx= 190
+10  25392   rpl_dio: send
+15  25458   #L 10 1
+31  25674   rpl_dio: send
+5  25730   rpl_dio: send
+5  25803   mahy ewma_alpha = 15
+5  25807   mahy1 stats->etx= 219
+31  26221   rpl_dio: send
+31  26236   mahy ewma_alpha = 30
+31  26240   mahy1 stats->etx= 171
+17  26470   rpl_dio: send
+17  26486   mahy ewma_alpha = 15
+17  26489   mahy1 stats->etx= 164
+4  26674   rpl_dio: send
+4  26798   mahy ewma_alpha = 15
+4  26801   mahy1 stats->etx= 158
+14  27118   rpl_dio: send
+14  27134   mahy ewma_alpha = 15
+14  27137   mahy1 stats->etx= 164
+20  27382   rpl_dio: send
+25  27488   #L 20 1
+32  27683   rpl_dio: send
+6  27904   rpl_dio: send
+26  28256   rpl_dio: send

@@ -1,0 +1,59 @@
+[21:08:26 - AWT-EventQueue-1] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[21:08:26 - AWT-EventQueue-1] [Cooja.java:2886] [INFO] - External tools user settings: /root/.cooja.user.properties
+[21:09:20 - Thread-1] [Simulation.java:422] [INFO] - Simulation random seed: -2097072434121753888
+[21:09:20 - Thread-1] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-root.wismote TARGET=wismote 
+[21:09:27 - Thread-1] [CompileContiki.java:140] [INFO] - > make app-p2p-sim-node.wismote TARGET=wismote 
+[21:09:27 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:28 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-node.wismote
+[21:09:29 - Thread-1] [MspMote.java:235] [INFO] - Loading firmware from: /home/mahyoub/Dropbox/Implementation/hrpl-rpl-mahyoub/example-full/simulationFiles/../app-p2p-sim-root.wismote
+[21:09:41 - Thread-1] [ScriptRunner.java:430] [INFO] - Test script deactivated
+[21:09:41 - Thread-1] [LogScriptEngine.java:265] [INFO] - Script timeout in 21000000 ms
+[21:09:42 - Thread-1] [ScriptRunner.java:387] [INFO] - Test script activated
+[21:09:42 - Thread-1] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin

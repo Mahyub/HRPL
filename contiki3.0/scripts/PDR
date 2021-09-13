@@ -1,0 +1,48 @@
+TIMEOUT(1200000);
+packetsReceived= new Array();
+packetsSent = new Array();
+serverID = 1;
+nodeCount =31;
+totalPRR = 0;
+
+for(i = 0; i <= nodeCount; i++) {
+	packetsReceived[i] = 0;
+	packetsSent[i] = 0;
+}
+
+while(1) {
+	YIELD();
+
+	msgArray = msg.split(' ');
+	if(msgArray[0].equals("DATA")) {
+		if(msgArray[1].equals("recv")) {
+			// Received packet
+			packetsReceived[id]++;
+			totalReceived = 0;
+            totalSent = 0;
+            log.log("node_id ");
+			for(i = serverID; i <= nodeCount; i++) {
+                log.log(i+"  ");
+				totalReceived += packetsReceived[i];
+                totalSent += packetsSent[i];
+			}
+            log.log("\n")
+            log.log("sending ");
+			for(i = serverID; i < nodeCount; i++) {
+            log.log(packetsSent[i]+"  ");
+			}
+            log.log("\n")
+
+            log.log("receving ");
+			for(i = serverID; i <= nodeCount; i++) {
+                log.log(packetsReceived[i]+"  ");
+			}
+            log.log("\n")
+			totalPRR = totalReceived/ totalSent;
+			log.log(sim.getSimulationTimeMillis()+ " "+"Total PRR " + totalPRR.toFixed(2) + " recv " + totalReceived  + " sent " + totalSent + "\n");
+		} else if(msgArray[1].equals("send")) {
+			// Sent packet
+			packetsSent[id]++;
+		}
+	}
+}
